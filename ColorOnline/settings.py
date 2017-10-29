@@ -147,7 +147,7 @@ STATICFILES_DIRS = (
 EMAIL_HOST = "smtp.sina.cn"
 EMAIL_PORT = 25
 EMAIL_HOST_USER = "tint_sky@sina.cn"
-EMAIL_HOST_PASSWORD = "tint@sky9567"
+EMAIL_HOST_PASSWORD = ""
 EMAIL_USER_TLS = False
 EMAIL_FROM = "tint_sky@sina.cn"
 
